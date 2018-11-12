@@ -1,0 +1,24 @@
+{
+  "name": "sample-git-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "myCommand": "git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bngams/sample-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bngams/sample-git-2/issues"
+  },
+  "homepage": "https://github.com/bngams/sample-git-2#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
